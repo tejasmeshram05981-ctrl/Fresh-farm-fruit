@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Fresh Farm Fruit</title>
+  <style>
+    body { font-family: Arial; text-align: center; background: #f4f4f4; }
+    h1 { color: green; }
+    .btn {
+      background: green;
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Fresh Farm Fruit 🍎</h1>
+  <p>Fresh fruits directly from farm</p>
+
+  <a class="btn" href="https://wa.me/91XXXXXXXXXX">Order on WhatsApp</a>
+
+</body>
+</html>
